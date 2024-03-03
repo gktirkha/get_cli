@@ -1,3 +1,5 @@
+> This is just a fork from existing get_cli as it is not working with 3.19.2, I have just upgraded dependencies in pubspec.yaml, [Link to refer](https://github.com/jonataslaw/get_cli/issues/247)
+
 ###### Documentation languages
 
 | [pt_BR](README-pt_BR.md) | en_US - this file |[zh_CN](README-zh_CN.md) |
